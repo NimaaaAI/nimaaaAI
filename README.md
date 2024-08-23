@@ -41,29 +41,11 @@
   <a href="https://opencv.org/" target="_blank">
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
   </a>
-  <a href="https://path-to-dlib-logo" target="_blank">
-    <img src="https://img.shields.io/badge/DLIB-00FFFF?style=for-the-badge&logoColor=white" alt="DLIB"/>
-  </a>
   <a href="https://path-to-yolo-logo" target="_blank">
     <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=white" alt="YOLO"/>
   </a>
-  <a href="https://path-to-nltk-logo" target="_blank">
-    <img src="https://img.shields.io/badge/NLTK-007F3F?style=for-the-badge&logoColor=white" alt="NLTK"/>
-  </a>
-  <a href="https://path-to-spacy-logo" target="_blank">
-    <img src="https://img.shields.io/badge/SpaCy-24A148?style=for-the-badge&logoColor=white" alt="SpaCy"/>
-  </a>
-  <a href="https://huggingface.co/" target="_blank">
-    <img src="https://img.shields.io/badge/Hugging--Face-FFDF5D?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face"/>
-  </a>
-  <a href="https://path-to-stable-baselines-logo" target="_blank">
-    <img src="https://img.shields.io/badge/Stable--Baselines-FFEA00?style=for-the-badge&logoColor=white" alt="Stable Baselines"/>
-  </a>
   <a href="https://path-to-openai-gym-logo" target="_blank">
     <img src="https://img.shields.io/badge/OpenAI--Gym-000000?style=for-the-badge&logoColor=white" alt="OpenAI Gym"/>
-  </a>
-  <a href="https://path-to-rllib-logo" target="_blank">
-    <img src="https://img.shields.io/badge/RLlib-FF7F50?style=for-the-badge&logoColor=white" alt="RLlib"/>
   </a>
 </p>
 
