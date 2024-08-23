@@ -38,9 +38,6 @@
   <a href="https://scikit-learn.org/" target="_blank">
     <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
   </a>
-  <a href="https://xgboost.readthedocs.io/" target="_blank">
-    <img src="https://img.shields.io/badge/XGBoost-EB4837?style=for-the-badge&logoColor=white" alt="XGBoost"/>
-  </a>
   <a href="https://opencv.org/" target="_blank">
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
   </a>
