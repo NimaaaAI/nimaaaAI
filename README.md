@@ -1,26 +1,51 @@
-## AI & Machine Learning
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=6B7280&size=26&center=true&vCenter=true&width=600&lines=Applied+Artificial+Intelligence;Machine+Learning+%26+Deep+Learning;Computer+Vision+%7C+LLMs+%7C+RL" />
+</p>
 
-I work on applied machine learning and deep learning systems, from research prototypes to production deployment.
+---
 
-### Core Areas
-- Machine Learning & Deep Learning
-- Computer Vision
-- Large Language Models (LLMs)
-- Reinforcement Learning
-- AI system integration
+### 👋 About
+I work on applied AI systems, focusing on machine learning research and robust deployment of AI solutions in real-world environments.
 
-### Tools & Technologies
-- **Languages:** Python, C++, MATLAB, SQL, Bash
-- **ML/DL:** PyTorch, TensorFlow, Keras, scikit-learn
-- **LLMs & NLP:** Hugging Face, LangChain, RAG, vector databases
-- **Computer Vision:** OpenCV, Vision Transformers, image processing
-- **MLOps:** Docker, Kubernetes, CI/CD
-- **APIs & Backend:** FastAPI, REST
-- **Data:** MongoDB, MySQL
-- **Research & Dev:** Linux, Git, Jupyter, VS Code
+---
 
-### Selected Topics
-- End-to-end AI pipelines
-- Human-centered and agent-based AI systems
-- Robust deployment in real-world environments
-- Research-driven industrial applications
+### 🧠 Focus Areas
+- Machine Learning & Deep Learning  
+- Computer Vision  
+- Large Language Models (LLMs)  
+- Reinforcement Learning  
+- End-to-end AI pipelines  
+
+---
+
+### 🛠️ Tools & Technologies
+
+**Languages**  
+🐍 Python · 💠 C++ · 📐 MATLAB · 🗄️ SQL · 🖥️ Bash  
+
+**ML & AI**  
+🔥 PyTorch · 🧠 TensorFlow · ⚙️ scikit-learn · 🤖 Hugging Face  
+🧩 Vision Transformers · 🖼️ OpenCV · 🎮 OpenAI Gym  
+
+**LLMs & NLP**  
+🗂️ RAG pipelines · 📚 Vector databases · 🔗 LangChain  
+
+**Deployment & MLOps**  
+🐳 Docker · ☸️ Kubernetes · 🚀 FastAPI · 🔁 CI/CD  
+
+**Data & Dev**  
+🗃️ MongoDB · 🐬 MySQL · 🧪 Jupyter · 🧠 VS Code · 🐧 Linux  
+
+---
+
+### 🔍 What You’ll Find Here
+- Research-oriented experiments
+- Applied ML and computer vision projects
+- Scalable AI system designs
+- Clean, reproducible implementations
+
+---
+
+### 📫 Contact
+- ✉️ Email: nima.saghi1993@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/nima-saghi-259b6a297/
