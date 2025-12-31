@@ -2,6 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=6B7280&size=26&center=true&vCenter=true&width=600&lines=Applied+Artificial+Intelligence;Machine+Learning+%26+Deep+Learning;Computer+Vision+%7C+LLMs+%7C+RL" />
 </p>
 
+![Uploading ChatGPT Image Dec 31, 2025, 04_07_47 PM.png…]()
 
 ### 🧠 Focus Areas
 - Machine Learning & Deep Learning  
