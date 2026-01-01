@@ -27,7 +27,7 @@
 🗂️ RAG pipelines · 📚 Vector databases · 🔗 LangChain  
 
 **Deployment & MLOps**  
-🐳 Docker · ☸️ Kubernetes · 🚀 FastAPI · 🔁 CI/CD  
+🐳 Docker  · ☸️ Kubernetes  · 🚀 FastAPI ·  🔁 CI/CD  
 
 ---
 
