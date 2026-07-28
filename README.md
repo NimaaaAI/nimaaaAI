@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="banner" src="https://github.com/user-attachments/assets/5f548892-aa0d-4a7d-8bce-4c31ee805336" />
 <div align="center">
 
 <img width="100%" alt="Applied Artificial Intelligence Engineer" src="assets/banner.png" />
