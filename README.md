@@ -1,12 +1,6 @@
 <img width="1536" height="1024" alt="banner" src="https://github.com/user-attachments/assets/5f548892-aa0d-4a7d-8bce-4c31ee805336" />
 <div align="center">
 
-<img width="100%" alt="Applied Artificial Intelligence Engineer" src="assets/banner.png" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=6B7280&center=true&vCenter=true&width=650&lines=Research+prototype+%E2%86%92+deployed+system;Perception+for+vehicles%2C+satellites+and+robots;Retrieval+systems+that+survive+real+queries" alt="Typing SVG" />
-
 <br/>
 
 <a href="https://linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
