@@ -8,7 +8,7 @@
 
 
 </div>
----
+
 
 ## About
 
@@ -112,38 +112,3 @@ Fine-tuned transformer TTS models for non-English targets, plus STT → LLM → 
 
 </div>
 
----
-
-## What You'll Find Here
-
-```
-├── research/        Reproducible experiments from thesis and publication work
-├── vision/          Detection, segmentation, and multi-task CNN projects
-├── llm-systems/     RAG pipelines, retrieval, reranking, agentic workflows
-├── rl/              Policy learning and simulation environments
-└── infra/           Serving, containerization, and deployment scaffolding
-```
-
-Every repository aims for the same standard: **clear problem statement, honest evaluation, reproducible results.**
-
----
-
-<div align="center">
-
-<!--
-  STATS CARDS — currently commented out. Two things to know:
-  1. Replace YOUR-USERNAME below with your actual GitHub username.
-  2. The public github-readme-stats instance is heavily rate-limited and
-     often returns nothing. To make these reliable, fork the project and
-     deploy your own free Vercel instance, then swap the domain below.
-     https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true&title_color=6B7280&icon_color=6B7280&text_color=8B949E&bg_color=00000000" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true&title_color=6B7280&text_color=8B949E&bg_color=00000000" alt="Top Languages"/>
--->
-
-<br/>
-
-*Open to research collaborations, PhD positions, and contract AI engineering work.*
-
-</div>
