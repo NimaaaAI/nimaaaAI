@@ -77,22 +77,6 @@ Fine-tuned transformer TTS models for non-English targets, plus STT → LLM → 
 </tr>
 </table>
 
----
-
-## Focus Areas
-
-<div align="center">
-
-| Perception | Language | Decision-Making | Systems |
-|:---:|:---:|:---:|:---:|
-| Computer Vision | Large Language Models | Reinforcement Learning | End-to-End ML Pipelines |
-| Vision Transformers | Retrieval-Augmented Generation | Policy Optimization | Model Serving & MLOps |
-| Object Detection | Vector Search & Reranking | Reward Design | Reproducible Research Code |
-| Multi-Task Learning | Vision–Language Models | Simulation Environments | Containerized Deployment |
-
-</div>
-
----
 
 ## Tech Stack
 
