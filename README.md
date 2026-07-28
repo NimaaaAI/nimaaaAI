@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" alt="banner" src="https://github.com/user-attachments/assets/1d02184b-1724-46fd-a801-d361a53f6a5a" />
+<img width="100%" alt="Applied Artificial Intelligence Engineer" src="assets/banner.png" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=6B7280&center=true&vCenter=true&width=650&lines=Applied+Artificial+Intelligence+Engineer;Computer+Vision+%7C+LLMs+%7C+Reinforcement+Learning;From+research+prototype+to+deployed+system" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=6B7280&center=true&vCenter=true&width=650&lines=Research+prototype+%E2%86%92+deployed+system;Perception+for+vehicles%2C+satellites+and+robots;Retrieval+systems+that+survive+real+queries" alt="Typing SVG" />
 
 <br/>
 
@@ -153,10 +153,19 @@ Every repository aims for the same standard: **clear problem statement, honest e
 
 <div align="center">
 
+<!--
+  STATS CARDS — currently commented out. Two things to know:
+  1. Replace YOUR-USERNAME below with your actual GitHub username.
+  2. The public github-readme-stats instance is heavily rate-limited and
+     often returns nothing. To make these reliable, fork the project and
+     deploy your own free Vercel instance, then swap the domain below.
+     https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
+
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true&title_color=6B7280&icon_color=6B7280&text_color=8B949E&bg_color=00000000" alt="GitHub Stats"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true&title_color=6B7280&text_color=8B949E&bg_color=00000000" alt="Top Languages"/>
+-->
 
-<br/><br/>
+<br/>
 
 *Open to research collaborations, PhD positions, and contract AI engineering work.*
 
