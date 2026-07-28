@@ -5,14 +5,7 @@
 <img width="1536" height="1024" alt="banner" src="https://github.com/user-attachments/assets/5f548892-aa0d-4a7d-8bce-4c31ee805336" />
 <div align="center">
 
-<br/>
 
-<a href="https://linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://scholar.google.com/citations?user=YOUR-ID"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Scholar"/></a>
-<a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="YOUR-CV-LINK"><img src="https://img.shields.io/badge/Curriculum_Vitae-2F855A?style=for-the-badge&logo=readdotcv&logoColor=white" alt="CV"/></a>
-
-</div>
 
 ---
 
