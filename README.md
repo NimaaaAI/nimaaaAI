@@ -18,7 +18,6 @@ AI & Automation Engineer working across the full arc of a machine learning syste
 - **Master's thesis at Volvo Cars** — road anomaly detection and severity estimation from vehicle-mounted cameras, using deep learning for both the detection and the downstream severity regression
 - **IEEE-published research** on marine debris detection from multispectral satellite imagery
 - **Production experience** shipping retrieval-augmented generation pipelines, multi-task CNNs, reinforcement learning agents, and end-to-end speech systems
-- Currently pursuing **PhD opportunities** in vision–language models, robotic perception, and trustworthy ML
 
 ---
 
